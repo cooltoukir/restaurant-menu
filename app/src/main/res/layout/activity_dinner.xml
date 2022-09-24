@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Dinner">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        >
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Nan   30TK\nGril  200TK\nKabab 120TK\nHalim   60TK\nVath  10TK\nSobzi 30TK\nGoro Mangso   120TK\nMurgi 80Tk"
+            android:textSize="40dp"
+            android:textStyle="bold"
+            />
+    </LinearLayout>
+
+</ScrollView>
